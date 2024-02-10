@@ -125,8 +125,8 @@ const read = ()=>{
 
 
 <button className="btn btn-success" onClick={read}>Sign Up</button>
-
-
+<br />
+<a href="#">Sign In</a>
     </div>
 </div>
 
